@@ -1,0 +1,25 @@
+{
+  "name": "node-express-website",
+  "version": "1.0.0",
+  "description": "Node Express WebSite with Routes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyasadhale/NodeClasses.git"
+  },
+  "author": "Priya Sadhale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyasadhale/NodeClasses/issues"
+  },
+  "homepage": "https://github.com/priyasadhale/NodeClasses#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
