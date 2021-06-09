@@ -1,0 +1,15 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Sample WebSite through express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Priya Sadhale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

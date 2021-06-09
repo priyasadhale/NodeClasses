@@ -1,0 +1,13 @@
+Node is light weight
+First create a folder
+Goto terminal -> npm init to create package.json
+
+Modules in Node.js
+Every file is a Module in Node.js
+Modules are the code that forms a library or used frequently.
+the members of module have to be exported to the world before its usage.
+
+There are 3 types of modules:
+a) File based modules/ User defined modules
+b) Core modules/ built-in module: fs, path, os
+c) Third party - given by others, need to install using "npm install <module_name>

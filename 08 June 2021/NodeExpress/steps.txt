@@ -1,0 +1,6 @@
+create a folder representing website
+create index.js
+create package.json using "npm init"
+install express using "npm install express --save"
+check package.json, package-lock.json, node-modules folder to confirm
+successful installation of express
